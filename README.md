@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://storage.ko-fi.com/cdn/useruploads/post/36a204bb-6be9-40ea-bdb4-28d0e9bd3e3c_discord_bot.gif"  />
+  <img height="150" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif"  />
 </div>
 
 ###
