@@ -1,6 +1,6 @@
 # Discord Altyapı by Proxy Dev.
 # Github: https://github.com/proxyhk
-# Yayın Yılı: 2025
+# Yayın Yılı: 2025 Ocak
 # Discord: psxdev
 
 import discord
