@@ -1,0 +1,3 @@
+discord
+ffmpeg
+discord-py-interactions
